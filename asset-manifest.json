@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/which-waldo/static/css/main.bb80645b.chunk.css",
+    "main.js": "/which-waldo/static/js/main.1f906d81.chunk.js",
+    "main.js.map": "/which-waldo/static/js/main.1f906d81.chunk.js.map",
+    "runtime~main.js": "/which-waldo/static/js/runtime~main.d6c282a9.js",
+    "runtime~main.js.map": "/which-waldo/static/js/runtime~main.d6c282a9.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/which-waldo/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/which-waldo/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/which-waldo/index.html",
+    "precache-manifest.c1b09e79ff9e8ff340748945d07a126e.js": "/which-waldo/precache-manifest.c1b09e79ff9e8ff340748945d07a126e.js",
+    "service-worker.js": "/which-waldo/service-worker.js",
+    "static/css/main.bb80645b.chunk.css.map": "/which-waldo/static/css/main.bb80645b.chunk.css.map"
+  }
+}
