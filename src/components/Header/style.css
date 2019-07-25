@@ -1,0 +1,47 @@
+.jumbotron {
+  width: 100%;
+  background-color:#007ac1;
+  margin: 0;
+  padding-top: 2rem;
+  padding-bottom: 0;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 5rem;
+  background-color:#007ac1;
+  color: white;
+ 
+}
+
+h1 {
+  font-family: 'Londrina Solid', cursive;
+}
+
+p {
+  font-family: 'Londrina Solid', cursive;
+  color: #7bd8f9;
+  font-size: 2rem;
+  padding: 0 2rem 0 2rem;
+  margin: 0
+}
+
+li {
+  font-family: 'Russo One', sans-serif;
+  font-size: 2rem;
+}
+
+.list-inline-item {
+  margin: 0
+}
+
+.num {
+  color: #7bd8f9
+}
+
+ul {
+  padding-top: 1rem;
+  padding-bottom: 0;
+  margin: 0
+}

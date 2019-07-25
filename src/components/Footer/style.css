@@ -1,0 +1,15 @@
+.footer {
+  min-height: 10rem;
+  background: #007ac1;
+  position: relative;
+}
+
+.footer span {
+  /* position: absolute; */
+  color: white;
+  font-family: 'Londrina Solid', cursive;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 4rem;
+}
