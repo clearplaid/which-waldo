@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "image":
+      "/pictures/Character.Wenda.jpg"
+  },
+  {
+    "id": 2,
+    "image":
+      "/pictures/Character.Odlaw.jpg"
+  },
+  {
+    "id": 3,
+    "image":
+      "/pictures/Character.Whitebeard.jpg"
+  },
+  {
+    "id": 4,
+    "image":
+      "/pictures/Character.Woof.jpg"
+  },
+  {
+    "id": 5,
+    "image":
+      "/pictures/J272610_J-WAL003.jpg"
+  },
+  {
+    "id": 6,
+    "image":
+      "/pictures/peeking-waldo.jpg"
+  },
+  {
+    "id": 7,
+    "image":
+      "/pictures/striped-waldo.jpg"
+  },
+  {
+    "id": 8,
+    "image":
+      "/pictures/waldo-cane.png"
+  },
+  {
+    "id": 9,
+    "image":
+      "/pictures/waldo-painting.jpeg"
+  },
+  {
+    "id": 10,
+    "image":
+      "/pictures/waldo-stamp.png"
+  },
+  {
+    "id": 11,
+    "image":
+      "/pictures/waldo-stuff.jpg"
+  },
+  {
+    "id": 12,
+    "image":
+      "/pictures/waving-waldo.jpg"
+  },
+  {
+    "id": 13,
+    "image":
+      "/pictures/wenda.jpg"
+  },
+  {
+    "id": 14,
+    "image":
+      "/pictures/whitebeard.jpeg"
+  },
+  {
+    "id": 15,
+    "image":
+      "/pictures/WilmaStamp.jpg"
+  }
+]
