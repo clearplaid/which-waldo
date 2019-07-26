@@ -79,6 +79,7 @@ class App extends Component {
               handleClick = {this.handleClick}
               id={image.id}
               key={image.id}
+              name={image.id}
               image={image.image}       
           />
           ))}

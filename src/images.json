@@ -2,17 +2,17 @@
   {
     "id": 1,
     "image":
-      "/pictures/Character.Wenda.jpg"
+      "../../public/pictures/Character.Wenda.jpg"
   },
   {
     "id": 2,
     "image":
-      "/pictures/Character.Odlaw.jpg"
+      "../../pictures/Character.Odlaw.jpg"
   },
   {
     "id": 3,
     "image":
-      "/pictures/Character.Whitebeard.jpg"
+      "../../pictures/Character.Whitebeard.jpg"
   },
   {
     "id": 4,
