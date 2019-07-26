@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import Modal from "./components/Modal";
 import ImageCard from "./components/ImageCard";
 import images from "./images.json";
 
@@ -74,7 +73,6 @@ class App extends Component {
           </ul>
         </Header>
         <Wrapper>
-          {(this.state.currentScore === 15) ? <Modal /> : null}
 
           {this.state.images.map(image => (
             <ImageCard
