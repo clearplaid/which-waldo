@@ -11,7 +11,7 @@ Every time an image is clicked, the images rendered to the page shuffle themselv
 
 Once the user's score is reset after an incorrect guess, the game restarts.
 
-https://github.com/clearplaid/which-waldo/blob/master/public/pictures/waldo-screenshot.png
+<img src="https://github.com/clearplaid/which-waldo/blob/master/public/pictures/waldo-screenshot.png" alt="burger top" width="400">
 
 
 
